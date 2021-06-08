@@ -40,29 +40,40 @@ Module1 assignment
 [![Facebook link](photo?fbid=1968549863461037&set=pob.100009181288748)](https://www.facebook.com/)
 
 ---
+## Simple coding ##
 <!--  Simple Programming -->
-' simple code'
+
+`simple code`
 
 > program for adding two numbers
 
-'''pyth
+```pyth
 #sample python program
 def add(a,b):{
   return a+b
   }
-'''
-...
+```
+---
 ' c program '
-''' dev c
 
-int multiplication(int a, int b)
+>Program for Multiplying two numbers
+
+```dev c
+int multiplication()
   {
-    printf(" enter two numbers ")
+    printf(" enter two numbers ");
     scanf("%d %d", &a,&b);
     int c= a*b;
     printf(" multiplication is: %d", c);
-  ]
- Multiplication();
- '''
- ...
- 
+  }
+ multiplication();
+```
+---
+## creating table ##
+
+| ##Name##|##Sex##  |##Age##|
+|------|------|----|
+| anil |Male  |24  |
+| Sandy|Male  |26  |
+| Hamsa|Female|24  |
+| ravi |Male  |24  |
