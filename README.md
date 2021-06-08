@@ -32,8 +32,37 @@ Module1 assignment
 <!-- Social Websites -->
 
 ***Social websites***
--[India Image](https://www.searchpng.com/)
 
-![India image](2019/07/11/india-flag-map-india-map-indian-flag-png-image-free-download/)
+[![Naukari Profile](mnjuser/homepage)](https://www.naukri.com/)
 
-[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
+[![Linked in ](in/anil-kumar-ganna/)](https://www.linkedin.com/)
+
+[![Facebook link](photo?fbid=1968549863461037&set=pob.100009181288748)](https://www.facebook.com/)
+
+---
+<!--  Simple Programming -->
+' simple code'
+
+> program for adding two numbers
+
+'''pyth
+#sample python program
+def add(a,b):{
+  return a+b
+  }
+'''
+...
+' c program '
+''' dev c
+
+int multiplication(int a, int b)
+  {
+    printf(" enter two numbers ")
+    scanf("%d %d", &a,&b);
+    int c= a*b;
+    printf(" multiplication is: %d", c);
+  ]
+ Multiplication();
+ '''
+ ...
+ 
