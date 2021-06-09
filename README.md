@@ -71,9 +71,30 @@ int multiplication()
 ---
 ## creating table ##
 
-| ##Name##|##Sex##  |##Age##|
-|------|------|----|
+| ***Name***|***Sex***  |***Age***|
+|-----------|-----------|---------|
 | anil |Male  |24  |
 | Sandy|Male  |26  |
 | Hamsa|Female|24  |
 | ravi |Male  |24  |
+
+---
+##Ordering of elements##
+
+* Graduation
+  * BSc
+    1. Mathematics
+    1. Life sciences 
+    1. Physics
+    1. Chemistry
+    1. Statistics
+    1. Computer Science
+        * Data Science
+        * Data Analytics
+  * BA
+      1. Economics
+      1. Arts
+          * History
+          * Political Science
+          * Anthropology
+      
